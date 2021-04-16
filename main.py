@@ -6,7 +6,7 @@ st.markdown("""
 """)
 
 
-models = ["zh_core_web_lg", "en_core_web_lg"]
+models = ["en_core_web_lg", "zh_core_web_lg"]
 default_text = "Sundar Pichai is the CEO of Google."
 spacy_streamlit.visualize(models, default_text)
 
@@ -47,16 +47,3 @@ st.markdown("""
 """)
 
 st.image('大邓和他的Python.png')
-
-
-
-
-
-
-
-
-
-
-
-
-
