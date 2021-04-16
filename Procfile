@@ -1,1 +1,1 @@
-web: sh setup.sh && python -m spacy download zh_core_web_lg && python -m spacy download eb_core_web_lg && streamlit run main.py
+web: sh setup.sh && streamlit run main.py
