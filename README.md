@@ -8,7 +8,7 @@
 
 ## Spacy配置步骤
 
-1. 下载[en_core_web_lg](https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl)和[zh_core_web_lg](https://github.com/explosion/spacy-models/releases/download/zh_core_web_lg-3.0.0/zh_core_web_lg-3.0.0-py3-none-any.whl)的whl文件，下载后放置于桌面。同时下载[本案例代码压缩包](https://github.com/thunderhit/sapcyDemo/archive/refs/heads/main.zip)至于桌面
+1. 下载[en_core_web_lg](https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl)和[zh_core_web_lg](https://github.com/explosion/spacy-models/releases/download/zh_core_web_lg-3.0.0/zh_core_web_lg-3.0.0-py3-none-any.whl)的whl文件，下载后放置于桌面。同时[将spacyDemo仓库下载](https://github.com/thunderhit/spacyDemo)至于桌面，解压。
 2. 打开命令行(Win即为cmd； Mac即为terminal)， 执行**cd desktop**命令，将命令行切换至桌面路径。
 3. 在命令行中依次执行下列安装配置命令
 
@@ -16,6 +16,8 @@
 pip3 install en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl
 
 pip3 install zh_core_web_lg-3.0.0/zh_core_web_lg-3.0.0-py3-none-any.whl
+
+cd spacyDemo
 
 pip3 install -r requirements.txt
 ```
