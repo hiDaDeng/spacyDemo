@@ -39,4 +39,4 @@ streamlit run main.py
 
 
 
-![](大邓和他的Python.png')
+![](大邓和他的Python.png)
