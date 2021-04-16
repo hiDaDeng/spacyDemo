@@ -2,6 +2,7 @@
 
 *Spacy库是Python的自然语言处理库，可以做句法依存、词向量解析、模式识别等，功能十分强大，现如今已支持中文。感兴趣的同学可以去[spacy](https://spacy.io/api)官方文档了解一二。但一般我们经管人文专业没必要死磕spacy，能学会jieba、pandas、scikit-learn等包就能应付基本文本分析需求。*
 
+在线示例网址 [https://spacydemo.herokuapp.com/](https://spacydemo.herokuapp.com/)
 
 
 
